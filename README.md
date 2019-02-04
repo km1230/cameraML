@@ -4,7 +4,7 @@
 </p>
 
 ## Schema:
-* ![iOS](https://img.shields.io/badge/Platform-iOS-blue.svg) ![Swift](https://img.shields.io/badge/Code-Swift-brightgreen.svg) ![Xcode](https://img.shields.io/badge/IDE-Xcode-e26ce0.svg) !
+* ![iOS](https://img.shields.io/badge/Platform-iOS-blue.svg) ![Swift](https://img.shields.io/badge/Code-Swift-brightgreen.svg) ![Xcode](https://img.shields.io/badge/IDE-Xcode-e26ce0.svg)
 
 ## Capture:
 ![Demo](https://github.com/km1230/cameraML/blob/master/demo.gif?raw=true =320x)
