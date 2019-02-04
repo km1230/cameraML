@@ -27,7 +27,7 @@ class ViewController: UIViewController, UINavigationControllerDelegate, UIImageP
         //TODO: Define delegate of imagePicker
         imagePicker.delegate = self
         //TODO: Define sourceType of imagePicker
-        imagePicker.sourceType = .photoLibrary
+        imagePicker.sourceType = .camera
         //TODO: Disable editing after obtaining picture
         imagePicker.allowsEditing = false
         //TODO: Display instruction
